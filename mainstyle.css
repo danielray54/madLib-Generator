@@ -1,0 +1,9 @@
+.jumbotron{
+    background-color:rgb(124, 35, 35);
+    color:white;
+}
+.textarea { height: 200px; }
+html {
+    font-size: 1em;
+} 
+
